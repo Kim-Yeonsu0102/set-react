@@ -1,11 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
 	return (
 		<div className='App'>
 			<header className='App-header'>
-				<img src={logo} className='App-logo' alt='logo' />
 				<p>나는 해적왕이 될거야!!!!!</p>
 				<p>나는 덩크왕 김연수</p>
 				<p>슬램덩크를 좋아하지 쿠쿡!</p>
